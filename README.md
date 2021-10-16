@@ -4,7 +4,7 @@
 
 <br>
 
-## 📌 TIL repo
+## 📚 TIL repo
 
 >   a repository for storing concepts I studied
 
@@ -18,7 +18,7 @@ I've stored every concept I studied here. You can see details by reading `README
 
 <br>
 
-#### 🎓 I've been studying:
+#### 🎓 I've been educated:
 
 >   1.   Bachelor's Degree from Hanyang Univ. in Seoul (double major)
 >        *   Business Administration
