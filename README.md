@@ -24,4 +24,4 @@ I've stored every concept I studied here. You can see details by reading `README
 >        *   Business Administration
 >        *   Bigdata Science
 >   2.   Education Program
->        *   Samsung Software Academy For Youth(SSAFY)
+>        *   Samsung Software Academy For Youth(SSAFY), 6th
